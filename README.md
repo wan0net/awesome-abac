@@ -24,4 +24,4 @@ The purpose of this list is to track and compare software that either enables, o
 * [Wikipedia - Attribute based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) 
 # Discussions
 
-None
+* [Hacker News](https://news.ycombinator.com/item?id=43100949)
