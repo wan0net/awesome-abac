@@ -4,7 +4,8 @@ The purpose of this list is to track and compare software that either enables, o
 
 * [ArchTIS Kojensi](https://www.archtis.com/secure-document-collaboration-software-protecting-classified-information/) - ABAC enabled File Sharing & Document Collaboration
 * [Pexip Secure Meetings](https://www.pexip.com/products/secure-meetings) - ABAC enabled Video Call and Chat
-
+* [AWS IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html) - Use ABAC tags in AWS IAM
+* 
 # Enables Attribute Based Access Control (in another application)
 * [Janusnet JanusSeal](https://www.janusnet.com/janusseal/windows-suite) - File Classification and Tagging
 * [Janusnet JanusGate Exchange](https://www.janusnet.com/janusGATE/Exchange) - Email Gateway using ABAC rules
@@ -16,7 +17,9 @@ The purpose of this list is to track and compare software that either enables, o
 * [Casbin](https://casbin.org/) An authorization library that supports access control models like ACL, RBAC, ABAC for Golang, Java, C/C++, Node.js, Javascript, PHP, Laravel, Python, .NET (C#), Delphi, Rust, Ruby, Swift (Objective-C), Lua (OpenResty), Dart (Flutter) and Elixir
 
 # Reference
-
+* [Wikipedia - Attribute based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control)
+* [NIST 800-162 - Attribute Based Access Control](https://csrc.nist.gov/pubs/sp/800/162/upd2/final)
+* 
 # Discussions
 
 None
