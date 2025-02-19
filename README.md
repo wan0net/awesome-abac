@@ -25,3 +25,4 @@ The purpose of this list is to track and compare software that either enables, o
 # Discussions
 
 * [Hacker News](https://news.ycombinator.com/item?id=43100949)
+* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7297928854642245632/)
