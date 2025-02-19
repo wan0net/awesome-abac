@@ -5,6 +5,7 @@ The purpose of this list is to track and compare software that either enables, o
 * [ArchTIS Kojensi](https://www.archtis.com/secure-document-collaboration-software-protecting-classified-information/) - ABAC enabled File Sharing & Document Collaboration
 * [AWS IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html) - Use ABAC tags in AWS IAM
 * [Cydarm](https://www.cydarm.com/) - Cyber Response management platform for Security operations
+* [Elastic]([https://www.cydarm.com/](https://www.elastic.co/guide/en/elasticsearch/reference/current/authorization.html#attributes)) - Reliably and securely take data from any source, in any format, then search, analyze, and visualize.
 * [Oracle Entitlements Server](https://docs.oracle.com/cd/E29542_01/admin.1111/e14096/intro.htm) - Oracle Entitlements Server is a fine-grained authorization product that allows an organization to protect its resources by defining and managing policies that control access to, and usage of, these resources. (Take with grain of salt, looks like it needs significant configuring)
 * [Pexip Secure Meetings](https://www.pexip.com/products/secure-meetings) - ABAC enabled Video Call and Chat
   
