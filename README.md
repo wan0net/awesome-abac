@@ -1,4 +1,4 @@
-The purpose of this list is to track and compare software that either enables, or natively supports attribute based access control.
+The purpose of this list is to track and compare software that either enables, or natively supports attribute based access control (ABAC)
 
 # Natively supports Attribute Based Access Control
 
