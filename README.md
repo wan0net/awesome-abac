@@ -7,8 +7,8 @@ The purpose of this list is to track and compare software that either enables, o
 * [AWS IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html) - Use ABAC tags in AWS IAM
 * 
 # Enables Attribute Based Access Control (in another application)
-* [Janusnet JanusSeal](https://www.janusnet.com/janusseal/windows-suite) - File Classification and Tagging
-* [Janusnet JanusGate Exchange](https://www.janusnet.com/janusGATE/Exchange) - Email Gateway using ABAC rules
+* [Janusnet JanusSeal](https://www.janusnet.com/janusseal/windows-suite) - File Classification and Tagging for Office and Windows
+* [Janusnet JanusGate Exchange](https://www.janusnet.com/janusGATE/Exchange) - Email Gateway using ABAC rules for Exchange
 * [ArchTIS NCProtect](https://www.archtis.com/data-discovery-classification-protection-software-secure-collaboration/) - Enables ABAC within Sharepoint
 
 
