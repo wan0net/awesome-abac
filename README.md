@@ -1,30 +1,60 @@
-The purpose of this list is to track and compare software that either enables, or natively supports attribute based access control (ABAC)
+# Awesome ABAC
 
-# Natively supports Attribute Based Access Control
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-* [ArchTIS Kojensi](https://www.archtis.com/secure-document-collaboration-software-protecting-classified-information/) - ABAC enabled File Sharing & Document Collaboration
-* [AWS IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html) - Use ABAC tags in AWS IAM
-* [Cydarm](https://www.cydarm.com/) - Cyber Response management platform for Security operations
-* [Elastic]([https://www.cydarm.com/](https://www.elastic.co/guide/en/elasticsearch/reference/current/authorization.html#attributes)) - Reliably and securely take data from any source, in any format, then search, analyze, and visualize.
-* [Oracle Entitlements Server](https://docs.oracle.com/cd/E29542_01/admin.1111/e14096/intro.htm) - Oracle Entitlements Server is a fine-grained authorization product that allows an organization to protect its resources by defining and managing policies that control access to, and usage of, these resources. (Take with grain of salt, looks like it needs significant configuring)
-* [Pexip Secure Meetings](https://www.pexip.com/products/secure-meetings) - ABAC enabled Video Call and Chat
-  
-# Enables Attribute Based Access Control (in another application)
-* [ArchTIS NCProtect](https://www.archtis.com/data-discovery-classification-protection-software-secure-collaboration/) - Enables ABAC within Sharepoint
-* [Janusnet JanusGate Exchange](https://www.janusnet.com/janusGATE/Exchange) - Email Gateway using ABAC rules for Exchange
-* [Janusnet JanusSeal](https://www.janusnet.com/janusseal/windows-suite) - File Classification and Tagging for Office and Windows
-  
-# Software Libraries for ABAC
+<p align="center"><strong>A curated list of software that enables or natively supports Attribute Based Access Control</strong><br>Because access control should be about attributes, not just roles.</p>
 
-* [Casbin](https://casbin.org/) An authorization library that supports access control models like ACL, RBAC, ABAC for Golang, Java, C/C++, Node.js, Javascript, PHP, Laravel, Python, .NET (C#), Delphi, Rust, Ruby, Swift (Objective-C), Lua (OpenResty), Dart (Flutter) and Elixir
+<p align="center">
+  <a href="#natively-supports-abac">Natively Supports ABAC</a> •
+  <a href="#enables-abac-in-another-application">Enables ABAC</a> •
+  <a href="#software-libraries">Software Libraries</a> •
+  <a href="#standards">Standards</a> •
+  <a href="#reference">Reference</a> •
+  <a href="#discussions">Discussions</a>
+</p>
 
-# Standards for ABAC
-* [NIST 800-162 - Attribute Based Access Control](https://csrc.nist.gov/pubs/sp/800/162/upd2/final)
-* [OASIS XACML](https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=67afe552-0921-49b7-9a85-018dc7d3ef1d) - OASIS eXtensible Access Control Markup Language (XACML)
-  
-# Reference
-* [Wikipedia - Attribute based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) 
-# Discussions
+---
 
-* [Hacker News](https://news.ycombinator.com/item?id=43100949)
-* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7297928854642245632/)
+Attribute Based Access Control (ABAC) is a policy model where access decisions are based on attributes of the user, resource, environment, and action — rather than static role assignments. It enables fine-grained, context-aware authorization that scales with complex, dynamic environments.
+
+## Natively Supports ABAC
+
+- [ArchTIS Kojensi](https://www.archtis.com/secure-document-collaboration-software-protecting-classified-information/) - ABAC enabled File Sharing & Document Collaboration
+- [AWS IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html) - Use ABAC tags in AWS IAM
+- [Cydarm](https://www.cydarm.com/) - Cyber Response management platform for Security operations
+- [Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/authorization.html#attributes) - Reliably and securely take data from any source, in any format, then search, analyze, and visualize.
+- [Oracle Entitlements Server](https://docs.oracle.com/cd/E29542_01/admin.1111/e14096/intro.htm) - Oracle Entitlements Server is a fine-grained authorization product that allows an organization to protect its resources by defining and managing policies that control access to, and usage of, these resources. (Take with grain of salt, looks like it needs significant configuring)
+- [Pexip Secure Meetings](https://www.pexip.com/products/secure-meetings) - ABAC enabled Video Call and Chat
+
+## Enables ABAC (in another application)
+
+- [ArchTIS NCProtect](https://www.archtis.com/data-discovery-classification-protection-software-secure-collaboration/) - Enables ABAC within Sharepoint
+- [Janusnet JanusGate Exchange](https://www.janusnet.com/janusGATE/Exchange) - Email Gateway using ABAC rules for Exchange
+- [Janusnet JanusSeal](https://www.janusnet.com/janusseal/windows-suite) - File Classification and Tagging for Office and Windows
+
+## Software Libraries
+
+- [Casbin](https://casbin.org/) An authorization library that supports access control models like ACL, RBAC, ABAC for Golang, Java, C/C++, Node.js, Javascript, PHP, Laravel, Python, .NET (C#), Delphi, Rust, Ruby, Swift (Objective-C), Lua (OpenResty), Dart (Flutter) and Elixir
+
+## Standards
+
+- [NIST 800-162 - Attribute Based Access Control](https://csrc.nist.gov/pubs/sp/800/162/upd2/final)
+- [OASIS XACML](https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=67afe552-0921-49b7-9a85-018dc7d3ef1d) - OASIS eXtensible Access Control Markup Language (XACML)
+
+## Reference
+
+- [Wikipedia - Attribute based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control)
+
+## Discussions
+
+- [Hacker News](https://news.ycombinator.com/item?id=43100949)
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7297928854642245632/)
+
+## Contributing
+
+Pull requests welcome. One entry per PR. Include the link, a short description of what the software does, and why it belongs on this list.
+
+## License
+
+[BSD 3-Clause](LICENSE)
